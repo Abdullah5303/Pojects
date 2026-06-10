@@ -1,4 +1,4 @@
-## Pojects
+## Projects
 # My First ML Project – Solubility Prediction 
 Tools: Python, pandas, scikit-learn, matplotlib 
 Built a foundational machine learning project to predict the aqueous solubility (logS) of molecules using a public dataset of chemical descriptors. 
